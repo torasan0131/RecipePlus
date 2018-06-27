@@ -1,0 +1,6 @@
+name: RecipePlus
+main: disaapse.RecipePlus
+version: 1
+Commands:
+  recipes:
+    usage: /<command>
